@@ -33,6 +33,7 @@
         &__author {
             margin: 1rem;
             font-weight: 700;
+            text-transform: uppercase;
         }
 
         &__num {
