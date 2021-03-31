@@ -54,6 +54,18 @@
                         link: 'https://www.eco-business.com/news/could-solar-energy-sharing-between-australia-and-singapore-be-a-model-for-other-regions/',
                         author: 'Eco-Business',
                         title: 'Could solar energy sharing between Australia and Singapore be a model for other regions?'
+                    },
+                    {
+                        id: 8,
+                        link: 'https://www.sciencedirect.com/science/article/pii/S0301421513003856',
+                        author: 'Charles A.S. Hall',
+                        title: 'EROI of different fuels and the implications for society'
+                    },
+                    {
+                        id: 9,
+                        link: 'https://openei.org/wiki/File:Air_emissions_summary.png',
+                        author: 'OpenEI',
+                        title: 'Air Emissions Summary'
                     }
                 ]
             }
