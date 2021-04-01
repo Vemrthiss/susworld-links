@@ -34,13 +34,13 @@
                     {
                         id: 4,
                         link: 'https://www.sciencedirect.com/science/article/pii/S0959652621002286',
-                        author: 'Irfan, Muhammad et al. ',
+                        author: 'Irfan, Muhammad et al.',
                         title: '“An assessment of consumers’ willingness to utilize solar energy in China: End-users’ perspective.” Journal of Cleaner Production 292 (2021): 126008. Online. Internet. 1 Apr. 2021.'
                     },
                     {
                         id: 5,
                         link: 'https://www.straitstimes.com/singapore/environment/solar-energy-to-meet-4-of-singapores-energy-demand-by-2030-up-from-less-than-1',
-                        author: 'Tan, Audrey',
+                        author: 'Tan, Audrey.',
                         title: '“Singapore to ramp up solar energy production to power 350,000 homes by 2030.” The Straits Times, 29 Oct. 2019. Online. Internet. 1 Apr. 2021.'
                     },
                     {
@@ -64,8 +64,14 @@
                     {
                         id: 9,
                         link: 'https://openei.org/wiki/File:Air_emissions_summary.png',
-                        author: 'OpenEI',
+                        author: 'OpenEI.',
                         title: '“File:Air emissions summary.png | Open Energy Information.” Openei.org, 2015. Online. Internet. 1 Apr. 2021.'
+                    },
+                    {
+                        id: 10,
+                        link: 'https://www.geothermal-energy.org/pdf/IGAstandard/NZGW/2013/Southon_Final.pdf',
+                        author: 'Southon, Michael, and Susan Krumdieck.',
+                        title: '"Energy Return on Investment (EROI) For Distributed Power Generation from Low-Temperature Heat Sources Using the Organic Rankine Cycle.", n.d. Online. Internet. 1 Apr. 2021.'
                     }
                 ]
             }
