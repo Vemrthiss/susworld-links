@@ -5,7 +5,7 @@
             <p class="link__author">{{author}}</p>
             <p class="link__title">{{title}}</p>
         </div>
-        <a :href="hyperlink" class="link__hyperlink">Link</a>
+        <p>Available: <a :href="hyperlink" class="link__hyperlink">{{hyperlink}}</a></p>
     </div>
 </template>
 
@@ -38,10 +38,6 @@
 
         &__num {
             font-weight: 700;
-        }
-
-        &__title {
-            text-decoration: underline;
         }
 
         &:target {
